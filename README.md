@@ -1,6 +1,6 @@
 # WeatherProblemCSV
 Program developed in Parsing Weather Data to determine the Hottest day, Coldest day, and Average of temperature in high humidity.
-## Functionalities of Program ->
+## Functionalities of Program -><img align="left" wigth="30" heigth="30" src="https://user-images.githubusercontent.com/53362962/89121987-4cd55180-d4e1-11ea-9a57-c61337445e7d.gif">
 ### About hottest Temperature-
 * testHottestInDay()- function test Hottest Day in file with time.
 * testHottestInManyDays()- is use to find hottest day with hour in a year.
